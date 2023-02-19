@@ -3,11 +3,12 @@
 * > * {
     font-family: "Poppins", cursive;
     margin: 0;
+    background-color: goldenrod;
 }
 
 :root{
     --color-dark: #2C3131;
-    --color-light: #F3F3F2;
+    --color-light: #419100;
 }
 
 #main{
